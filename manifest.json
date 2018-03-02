@@ -1,7 +1,7 @@
 {
     "manifest_version":2,
     "name":"No More Blockchain",
-    "description":"Tried of seeing the word 'Blockchain' everywhere? Replace it with the no-more-blockchain chrome extension.",
+    "description":"Tired of seeing the word 'Blockchain' everywhere? Replace it with the no-more-blockchain chrome extension.",
     "version":"1.0.0",
     "content_scripts":[
         {
