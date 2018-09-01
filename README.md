@@ -1,7 +1,5 @@
-# No More BlockChain
-Tired of seeing the word "Blockchain" everywhere? Replace it with the no-more-blockchain chrome extension.
-
-This chrome extension replaces the word blockchain with "mulitple copies of a giant Excel spreadsheet".
+# WordSwap
+Tired of seeing a word/phrase/term everywhere? Replace it with the WordSwap chrome extension.
 # Inspired by this tweet by Christopher Mims
 
 Christopher Mims is a technology columnist at The Wall Street Journal. Twitter: @mims
